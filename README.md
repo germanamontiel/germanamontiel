@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 
 - El programa te pregunta si vas a jugar, elige la opcion correcta. Te preguntara tu nombre, y a continuacion te dejara elegir la cantidad de preguntas, maximo 10. Son preguntas sobre peliculas de accion (por ahora), y tienes 5 respuestas para elegir, cada respuesta correcta suma 5 puntos y cada respuesta incorrecta resta 3, para ganar tienes que responder dos correctas o mas. El programa te dira al final cuanta puntuacion sacaste y el resultado de la misma. 
 
-● Diagrama de flujo.
+![Diagrama de flujo].(/Trivia_rev3.jpg)
 
 ● Ejemplos .
 
