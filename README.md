@@ -1,6 +1,3 @@
-### Hola y Bienvenidos 👋
-#### Pon a prueba tu conocimiento cinefilo. 
-##### Trata de no volverte loco y piensa.
 <!--
 **germanamontiel/germanamontiel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -18,9 +15,13 @@ Here are some ideas to get you started:
 -->
 🔭 Estoy trabajando actualmente en esta aplicacion:
 
-![descripcion](/images/myimagen.jpg)
+![descripcion](/R27k3WC-_400x400.jpg)
 
-#### Cinefilia 
+
+
+## Cinefilia 
+
+#### Pon a prueba tu conocimiento cinefilo. 
 
 - Descripción : Juego de preguntas y respuestas mas dificil que cualquier otro, preguntas que no verias en casi ningiun juego de mesa. 
 - Desarrollado en Python.
