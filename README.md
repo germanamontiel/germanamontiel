@@ -34,8 +34,8 @@ Here are some ideas to get you started:
 
 ![descripcion](/trivia_rev3.jpg)
 
-*Para ejecutarlo, tienes que bajar los archivos: 
-  *Cinefilia_Rev3.py, cine_lista.csv 
+* Para ejecutarlo, tienes que bajar los archivos: 
+  * Cinefilia_Rev3.py, cine_lista.csv 
     
 
 ● Fecha de última actualización. 24/02/2022
